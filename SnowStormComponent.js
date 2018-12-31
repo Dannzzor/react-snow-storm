@@ -1,5 +1,5 @@
 import React from 'react';
-import snowStorm from '../assets/snowstorm/snowstorm';
+import snowStorm from './snowstorm';
 
 export default class SnowStorm extends React.Component {
   constructor(props, context) {
